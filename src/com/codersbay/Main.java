@@ -13,6 +13,7 @@ public class Main {
         sortArray(numbers);
     }
 
+
     private static void sortArray(int[] numbers) {
         int temp;
         for (int i = 0; i < numbers.length - 1; i++) {
